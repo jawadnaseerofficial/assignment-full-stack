@@ -1,2 +1,1 @@
-# assignment-full-stack
-ok
+# assignments-full-stack
