@@ -61,3 +61,24 @@
     position: relative;
     bottom: 800px;
 }
+
+.bangla{
+    height: 400px;
+    width: 600px;
+    border: 1px solid black;
+}
+
+.banglagreen{
+    height: 400px;
+    background-color: #006A4E;
+}
+
+.banglared{
+    height: 250px;
+    width: 250px;
+    border-radius: 1000px;
+    background-color: #F80000;
+    position: relative;
+    bottom: 320px;
+    left: 120px;
+}
